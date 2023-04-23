@@ -13,8 +13,4 @@ See the [sitemaps protocol page](https://www.sitemaps.org/protocol.html) for mor
 
 ## Alternatives
 
-[Hoverboard](https://github.com/gdg-x/hoverboard)
-
-[GitHub Pages site with Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll)
-
-[Pixelarity](https://pixelarity.com).
+[Hoverboard](https://github.com/gdg-x/hoverboard), [Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll), and [Pixelarity](https://pixelarity.com)
