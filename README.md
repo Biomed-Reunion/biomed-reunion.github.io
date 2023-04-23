@@ -1,9 +1,10 @@
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 ## Editing the Template
-Visual guidance - color palette: Tsinghua purple (#660874), white, black
 
-[Crash course in HTML and CSS](https://rutar.org/writing/how-to-build-a-personal-webpage-from-scratch/#crash-course-in-html-and-css) 
+Visual guide - color palette: Tsinghua purple (#660874), white, black
+
+Content guide: [crash course in HTML and CSS](https://rutar.org/writing/how-to-build-a-personal-webpage-from-scratch/#crash-course-in-html-and-css) 
 
 ## Sitemap (optional)
 
