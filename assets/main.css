@@ -35,8 +35,8 @@ body{
 }
 
 a{color: #660874; text-decoration:none;}
-a.current{color: #660874;}
-a.current:hover{color: #660874;}
+a.current{color: #000000;}
+a.current:hover{color: #000000;}
 a:hover{color: #660874;}
 a:active{color: #660874;}
 h1,h2,h3,h4{clear:left; color: #660874; margin:1.5em 0em 1em 0em; font-family:'Roboto Slab',serif;}
