@@ -113,6 +113,8 @@ td.flyer{white-space:nowrap; width:50%; text-align:center; vertical-align:middle
 td.sponsor img{width: 100%}
 
 footer{background-color:#660874; color:#ffffff; font-size:0.875em; margin-top:2em; text-align:center;}
+footer.a{color:#ffffff;}
+footer.a:hover{color:#ffffff; font-weight:bold;}
 
 /* My hacky way of making the site mobile-friendly */
 @media only screen and (max-width: 1100px) {
