@@ -114,7 +114,6 @@ td.sponsor img{width: 100%}
 
 footer{background-color:#660874; color:#ffffff; font-size:0.875em; margin-top:2em; text-align:center;}
 a.footer{color:#ffffff;}
-a.footer:hover{color:#ffffff; font-weight:bold;}
 
 /* My hacky way of making the site mobile-friendly */
 @media only screen and (max-width: 1100px) {
