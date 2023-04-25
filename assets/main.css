@@ -79,9 +79,8 @@ th,td{
 .bottom-right {font-size:2.33em; color: #ffffff; line-height: 1.5em; width: auto; height: 100px; padding: 0px 27px 27px 0px; text-align: right; position: absolute; bottom: 0px; right: 0px;}
 
 /* Conference Title Logo */
-.title1{color: #660874; font-size:0.9em;} 
-.title2{color: #660874; font-size:0.9em;}
-.year{color: #000000; font-size:0.67em; font-weight: lighter;}
+.title1{color: #660874; font-size:0.9em; font-weight:bold;} 
+.year{color: #000000; font-size:0.67em;}
 
 /* Navigation Links (Home, Registration, etc) */
 table.navigation{width:950px; border-bottom: 2px solid #660874;}
