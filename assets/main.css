@@ -45,8 +45,8 @@ a:hover{color: #000000;}
 a:active{color: #000000;}
 h1,h2,h3,h4{clear:left; color: #660874; margin:1.5em 0em 1em 0em; font-family:'Roboto Slab',serif;}
 h1{font-size:2.67em;}
-h2{font-size:2.00em; font-weight:bold;}
-h3{font-size:1.48em;}
+h2{font-size:1.67em; font-weight:bold;}
+h3{font-size:1.24em;}
 h4{font-size:1.33em;}
 p{list-style:none; margin:24px auto 24px auto; padding:0px; width:900px; text-align:left;}
 li a, p a {text-decoration:underline; text-decoration-color:#660874;}
