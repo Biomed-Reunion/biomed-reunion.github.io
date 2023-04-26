@@ -34,6 +34,10 @@ body{
     width: 1000px;
 }
 
+footer{
+    box-shadow: 0 50vh 0 50vh #000;
+}
+
 a{color: #660874; text-decoration:none;}
 a.current{color: #ffffff;}
 a.current:hover{color: #ffffff;}
