@@ -53,7 +53,7 @@ h1,h2,h3{clear:left; color: #660874; margin:1.5em 0em 1em 0em; font-family:'Robo
 h1{font-size:2.67em;}
 h2{font-size:1.67em; font-weight:bold;}
 h3{font-size:1.24em;}
-h4{font-size:0.75em; font-weight:lighter; text-align: left; color: #ffffff;} /* For the privacy statement */
+h4{font-size:0.75em; font-weight:lighter; text-align: left; color: #ffffff; line-height: 1;} /* For the privacy statement */
 
 p{list-style:none; margin:24px auto 24px auto; padding:0px; width:900px; text-align:left;}
 li a, p a {text-decoration:underline; text-decoration-color:#660874;}
