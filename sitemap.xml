@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
-<!-- replace WEBSITE with the address where this site is being hosted -->
    <url>
        <loc>https://thubiomedreunion.github.io</loc>
    </url>
@@ -14,4 +13,3 @@
        <loc>https://thubiomedreunion.github.io/downloads</loc>
    </url>
 </urlset> 
-
