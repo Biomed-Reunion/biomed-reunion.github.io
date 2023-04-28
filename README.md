@@ -2,9 +2,9 @@
 
 ## Editing the Template
 
-Visual guide - RGB color palette: Tsinghua Purple (#660874), white (#ffffff), black (#000000)
+- Visual guide - RGB color palette: Tsinghua Purple (#660874), white (#ffffff), black (#000000)
 
-web designing guide: [crash course in HTML and CSS](https://rutar.org/writing/how-to-build-a-personal-webpage-from-scratch/#crash-course-in-html-and-css) 
+- Web designing guide: [crash course in HTML and CSS](https://rutar.org/writing/how-to-build-a-personal-webpage-from-scratch/#crash-course-in-html-and-css) 
 
 ## Sitemap (optional)
 
