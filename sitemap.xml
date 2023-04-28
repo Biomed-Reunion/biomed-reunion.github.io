@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
    <url>
-       <loc>https://thubiomedreunion.github.io</loc>
+       <loc>https://biomed-reunion.github.io</loc>
    </url>
    <url>
-       <loc>https://thubiomedreunion.github.io/registration</loc>
+       <loc>https://biomed-reunion.github.io/registration</loc>
    </url>
    <url>
-       <loc>https://thubiomedreunion.github.io/program</loc>
+       <loc>https://biomed-reunion.github.io/program</loc>
    </url>
    <url>
-       <loc>https://thubiomedreunion.github.io/downloads</loc>
+       <loc>https://biomed-reunion.github.io/downloads</loc>
    </url>
 </urlset> 
