@@ -10,8 +10,8 @@
  *   #000000; Black (text color of the site)
  */
 
-@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@300;400;700&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100;200;300;400;500;600;700;800;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap');
 
 *{
     border:0;
@@ -52,7 +52,7 @@ a.footer{color:#ffffff;}
 
 h1,h2,h3{clear:left; color: #660874; margin:1.5em 0em 1em 0em; font-family:'Roboto Slab',serif;}
 h1{font-size:2.67em;}
-h2{font-size:1.67em; font-weight:bold;}
+h2{font-size:1.67em; font-weight:500;}
 h3{font-size:1.24em;}
 h4{font-size:0.75em; font-family: 'Roboto', sans-serif; font-weight:100; text-align: justify; color: #ffffff; line-height: 1.1;} /* For the privacy statement */
 
@@ -61,7 +61,7 @@ li a, p a {text-decoration:underline; text-decoration-color:#660874;}
 ul{list-style:none; margin:24px auto 24px auto; padding:0px; width:800px; text-align:left;}
 ul li{list-style:none; margin:0px auto 0px auto; padding:0px; text-align:left;}
 i,em{font-style:italic;}
-b,strong{font-weight:bold;}
+b,strong{font-weight:500;}
 sup{
     vertical-align: super;
     font-size: 0.8em;
@@ -91,12 +91,12 @@ th,td{
 .bottom-right {font-size:2.33em; color: #ffffff; line-height: 1.5em; width: auto; height: 100px; padding: 0px 27px 27px 0px; text-align: right; position: absolute; bottom: 0px; right: 0px;}
 
 /* Conference Title Logo */
-.title1{color: #660874; font-size:0.81em; font-weight:bold;} 
-.year{color: #000000; font-size:0.6em;}
+.title1{color: #660874; font-size:0.72em; font-weight:700;} 
+.year{color: #000000; font-size:0.53em;}
 
 /* Navigation Links (Home, Registration, etc) */
 table.navigation{width:950px; border-bottom: 2px solid #660874;}
-td.navigation{font-size:1.67em; font-weight:bold; font-family:'Roboto Slab',serif; white-space:nowrap; width:20%; text-align:center; vertical-align:middle; padding-bottom: 12px;}
+td.navigation{font-size:1.67em; font-weight:500; font-family:'Roboto Slab',serif; white-space:nowrap; width:20%; text-align:center; vertical-align:middle; padding-bottom: 12px;}
 
 /* Sponsor Images */
 table.sponsors{width:800px;}
@@ -107,7 +107,7 @@ td.sponsor img{width: 100%}
 td.room{padding: 4px 12px 4px 4px; width: 90%; vertical-align:bottom; font-size:1.67em; color: #660874; height:32px;}
 td.date{white-space:nowrap; width:130px; text-align:right; vertical-align:top; padding:4px 16px 0px 0px;}
 td.title{padding: 4px 12px 4px 4px; width: 90%; vertical-align:top; font-size:1.5em; color: #660874; height:32px; font-family:'Roboto Slab',serif;}
-td.title-special{padding: 4px 12px 4px 4px; width: 90%; vertical-align:top; font-size:1.67em; font-weight:bold; color: #660874; height:32px; font-family:'Roboto Slab',serif;}
+td.title-special{padding: 4px 12px 4px 4px; width: 90%; vertical-align:top; font-size:1.67em; font-weight:500; color: #660874; height:32px; font-family:'Roboto Slab',serif;}
 td.speaker{padding: 4px 12px 4px 4px; font-style: italic; font-size:1em; max-height:999999px}
 td.abstract{padding: 4px 12px 12px 4px; font-size:1em; max-height:999999px}
 td.abstract img{display: block; margin: 4px auto 8px auto}
