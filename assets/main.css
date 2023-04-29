@@ -42,6 +42,7 @@ footer{
     color:#ffffff;
     font-size:0.875em;
     margin-top:2em;
+    width: 1000px;
 }
 
 a{color: #660874; transition: all 0.23s}
