@@ -42,7 +42,8 @@ footer{
     color:#ffffff;
     font-size:0.875em;
     margin-top:2em;
-    width: 900px;
+    padding: 0 5% 0 5%;
+    text-align: left;
 }
 
 a{color: #660874; transition: all 0.23s}
