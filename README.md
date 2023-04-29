@@ -13,9 +13,11 @@ To view the effect of a change to the front end of the [website](https://biomed-
 
 - Web designing guide: [crash course in HTML and CSS](https://rutar.org/writing/how-to-build-a-personal-webpage-from-scratch/#crash-course-in-html-and-css) 
 
-## Sitemap (optional)
+<!-- ## Sitemap (optional)
 
 The file `sitemap.xml` helps search engines understand the structure of your site. See the [sitemaps protocol page](https://www.sitemaps.org/protocol.html) for more details.
+
+-->
 
 ## Alternatives
 
