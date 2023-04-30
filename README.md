@@ -9,9 +9,9 @@ To view the effect of a change to the front end of the [website](https://biomed-
 
 ## Guides
 
-- Visual guide - RGB color palette: Tsinghua Purple (#660874), white (#ffffff), black (#000000)
+- Visual guide - color palette (RGB): Tsinghua Purple (#660874), white (#ffffff), black (#000000)
 
-- Web designing guide: [crash course in HTML and CSS](https://rutar.org/writing/how-to-build-a-personal-webpage-from-scratch/#crash-course-in-html-and-css) 
+- [Web designing guide](https://rutar.org/writing/how-to-build-a-personal-webpage-from-scratch/#crash-course-in-html-and-css) 
 
 <!-- ## Sitemap (optional)
 
