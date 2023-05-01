@@ -1,5 +1,7 @@
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
+This website is adapted from a [template](https://github.com/mikepierce/conference-website-template) designed by [Mike Pierce](https://github.com/mikepierce).
+
 ## Basics
 
 To view the effect of a change to the front end of the [website](https://biomed-reunion.github.io), go to the "Actions" tab in the web-based GitHub repository and make sure that the latest change (by validating the checksum) is successfully deployed to GitHub Pages. You may also need to clear any cache (or simply use the private/incognito mode on your favorite browser) to view the change.
