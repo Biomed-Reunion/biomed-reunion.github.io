@@ -74,7 +74,7 @@ sub{
     line-height: 0;
 }
 table{
-    width: 900px;
+    width: 950px;
     margin: 12px auto 24px auto;
     float: center;
     /* UNCOMMENT THIS FOR DEBUGGING THE ALIGNMENT */
@@ -96,11 +96,10 @@ th,td{
 .year{color: #000000; font-size:0.53em;}
 
 /* Navigation Links (Home, Registration, etc) */
-table.navigation{width:950px; border-bottom: 2px solid #660874;}
+table.navigation{border-bottom: 2px solid #660874;}
 td.navigation{font-size:1.67em; font-weight:500; font-family:'Roboto Slab',serif; white-space:nowrap; width:20%; text-align:center; vertical-align:middle; padding-bottom: 12px;}
 
 /* Sponsor Images */
-table.sponsors{width:900px;}
 td.sponsor{white-space:nowrap; width:33%; text-align:center; vertical-align:middle; padding:0px 0px 0px 0px;}
 td.sponsor img{width: 100%}
 
@@ -119,7 +118,6 @@ iframe.registration{display:block; margin:1em auto 2em auto; width:900px; height
 img.center{display:block; width:67%; margin:1em auto 2em auto;}
 
 /* Flyer Images */
-table.flyers{width:900px;}
 td.flyer{white-space:nowrap; width:50%; text-align:center; vertical-align:middle; padding:0px 0px 0px 0px;}
 td.sponsor img{width: 100%}
 
