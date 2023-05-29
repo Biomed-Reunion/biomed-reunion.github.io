@@ -78,7 +78,7 @@ table{
     margin: 12px auto 24px auto;
     float: center;
     /* UNCOMMENT THIS FOR DEBUGGING THE ALIGNMENT */
-    /*border: 1px solid black;*/
+    border: 1px solid black;
 }
 th,td{
     text-align: left;
