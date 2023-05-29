@@ -52,13 +52,13 @@ a.other{text-decoration: none;}
 a.other:hover{color: #ffffff; background-color: #660874;}
 a.footer{color:#ffffff;}
 
-h1,h2,h3{clear:left; width:900px; text-align:left; color: #660874; margin:24px auto 24px auto; font-family:'Roboto Slab',serif; line-height: 1.2;}
+h1,h2,h3{clear:left; width:950px; text-align:left; color: #660874; margin:24px auto 24px auto; font-family:'Roboto Slab',serif; line-height: 1.2;}
 h1{font-size:2.67em;}
 h2{font-size:1.67em; font-weight:500;}
 h3{font-size:1.24em;}
 h4{font-size:0.75em; font-family: 'Roboto', sans-serif; font-weight:100; text-align: justify; color: #ffffff; line-height: 1.1;} /* For the privacy statement */
 
-p{list-style:none; margin:24px auto 24px auto; padding:0px; width:900px; text-align:left;}
+p{list-style:none; margin:24px auto 24px auto; padding:0px; width:950px; text-align:left;}
 li a, p a {text-decoration:underline; text-decoration-color:#660874;}
 li{list-style:none; margin:0px auto 0px auto; padding:0px; text-align:left;}
 i,em{font-style:italic;}
@@ -114,7 +114,7 @@ td.abstract img{display: block; margin: 4px auto 8px auto}
 table.plenary{padding-top: 8px; background: #ffffff;}
 
 /* Registration and Directions iframes and Images */
-iframe.registration{display:block; margin:1em auto 2em auto; width:900px; height:3500px; border:none;}
+iframe.registration{display:block; margin:1em auto 2em auto; width:950px; height:3500px; border:none;}
 img.center{display:block; width:67%; margin:1em auto 2em auto;}
 
 /* Flyer Images */
