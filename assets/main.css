@@ -56,8 +56,8 @@ h1,h2,h3{clear:left; width:950px; text-align:left; color: #660874; margin:24px a
 h1{font-size:2.67em;}
 h2{font-size:1.67em; font-weight:500;}
 h3{font-size:1.24em;}
-h4{font-size:0.75em; font-family: 'Roboto', sans-serif; font-weight:100; text-align: justify; color: #ffffff; line-height: 1.1;} /* For the privacy statement */
-h5{font-size:1.24em; font-family: 'Roboto', sans-serif; font-weight:500; text-align: center; color: #660874;} /* For speaker names */
+h4{font-size:0.75em; font-family:'Roboto',sans-serif; font-weight:100; text-align: justify; color: #ffffff; line-height: 1.1;} /* For the privacy statement */
+h5{font-size:1.24em; font-family:'Roboto Slab',serif; font-weight:500; text-align: center; color: #660874;} /* For speaker names */
 
 p{list-style:none; margin:24px auto 24px auto; padding:0px; width:950px; text-align:left;}
 li a, p a {text-decoration:underline; text-decoration-color:#660874;}
