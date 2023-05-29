@@ -107,7 +107,7 @@ td.sponsor img{width: 100%}
 
 /* The Table on the Program Page */
 td.room{padding: 4px 0 4px 4px; width: 100%; vertical-align:bottom; font-size:1.67em; color: #660874; height:32px;}
-td.date{white-space:nowrap; width:130px; text-align:left; vertical-align:top; padding:4px 16px 0px 0px;}
+td.date{white-space:nowrap; width:70px; text-align:left; vertical-align:top; padding:4px 16px 0px 0px;}
 td.title{padding: 4px 0 4px 4px; width: 100%; vertical-align:top; font-size:1.24em; color: #660874; height:32px; font-family:'Roboto Slab',serif;}
 td.title-special{padding: 4px 0 4px 4px; width: 100%; vertical-align:top; font-size:1.67em; font-weight:500; color: #660874; height:32px; font-family:'Roboto Slab',serif;}
 td.speaker{padding: 4px 0 4px 4px; font-style: italic; font-size:1em; max-height:999999px}
