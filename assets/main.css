@@ -56,10 +56,10 @@ h1,h2,h3{clear:left; width:950px; text-align:left; color: #660874; margin:24px a
 h1{font-size:2.67em;}
 h2{font-size:1.67em; font-weight:500;}
 h3{font-size:1.24em;}
-h4{font-size:0.75em; font-family:'Roboto',sans-serif; font-weight:100; text-align: justify; color: #ffffff; line-height: 1.1;} /* For the privacy statement */
+h4{font-size:0.75em; font-family:'Roboto',sans-serif; font-weight:100; text-align: justify; color: #ffffff; line-height: 1.1; hyphens: auto;} /* For the privacy statement */
 h5{font-size:1.24em; font-family:'Roboto Slab',serif; font-weight:500; text-align: center; color: #660874;} /* For speaker names */
 
-p{list-style:none; margin:24px auto 24px auto; padding:0px; width:950px; text-align:left;}
+p{list-style:none; margin:24px auto 24px auto; padding:0px; width:950px; text-align:justify; hyphens: auto;}
 li a, p a {text-decoration:underline; text-decoration-color:#660874;}
 li{list-style:none; margin:0px auto 0px auto; padding:0px; text-align:left;}
 i,em{font-style:italic;}
@@ -111,7 +111,7 @@ td.date{white-space:nowrap; width:70px; text-align:left; vertical-align:top; pad
 td.title{padding: 4px 0 4px 4px; width: 100%; vertical-align:top; font-size:1.24em; color: #660874; height:32px; font-family:'Roboto Slab',serif;}
 td.title-special{padding: 4px 0 4px 4px; width: 100%; vertical-align:top; font-size:1.67em; font-weight:500; color: #660874; height:32px; font-family:'Roboto Slab',serif;}
 td.speaker{padding: 4px 0 4px 4px; font-style: italic; font-size:1em; max-height:999999px}
-td.abstract{padding: 4px 0 12px 4px; font-size:1em; max-height:999999px}
+td.abstract{padding: 4px 0 12px 4px; font-size:1em; text-align: justify; hyphens: auto; max-height:999999px}
 td.abstract img{display: block; margin: 4px auto 8px auto}
 table.plenary{padding-top: 8px; background: #ffffff;}
 
