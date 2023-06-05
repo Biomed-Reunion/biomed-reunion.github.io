@@ -89,7 +89,7 @@ th,td{
 }
 
 /* Website Banner */
-.banner {position: absolute;}
+.banner {position: relative;}
 .top-left {font-family:'Bitter',serif; font-size:5.33em; color: #000000; background: #ffffff; text-align: center; width: 1000px; height: 67px; position: absolute; padding: 36px 0 0 0; top: 0px;}
 .bottom-right {font-family:'Bitter',serif; font-weight:600; font-size:2em; color: #ffffff; line-height: 1.3em; width: auto; height: 100px; padding: 0px 27px 27px 0px; text-align: right; position: absolute; bottom: 0px; right: 0px;}
 
