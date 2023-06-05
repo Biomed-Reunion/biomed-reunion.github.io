@@ -1,6 +1,6 @@
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
-This website is adapted from a [template](https://github.com/mikepierce/conference-website-template) designed by [Mike Pierce](https://github.com/mikepierce).
+This website is adapted from a [template](https://github.com/mikepierce/conference-website-template) designed by [Mike Pierce](https://github.com/mikepierce). The banner image is modified from a photo *Dusk over the Golden Gate in San Francisco, California* in the [public domain](https://www.goodfreephotos.com/united-states/california/san-francisco/dusk-over-the-golden-gate-in-san-francisco-california.jpg.php).
 
 ## Basics
 
