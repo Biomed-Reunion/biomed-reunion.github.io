@@ -9,6 +9,10 @@ To view the effect of a change to the front end of the [website](https://biomed-
 ## Privacy statement
 > We take your privacy seriously and will not share, redistribute, or sell your information to any third party (including our sponsors) for marketing or other purposes. (1) By registering for this event, you consent to the collection and use of your personal information (such as your name, contact information, occupation, organizational affiliation, and dietary preferences) for event planning. We may use the collected information to contact you regarding event-related matters, such as changes to the schedule. Registering for this event does not automatically subscribe you to our mailing list. (2) By subscribing to our mailing list, you consent to the collection and use of your email address (and, if provided, your preferred name for greeting) to notify you about future Tsinghua BioMed Reunion events.
 
+## Controlling the host language of Google Forms (anonymous, without signing in a Google-associated account) embedded as an iframe
+
+A "?hl=(desired host language)" parameter is appended to link. For a complete list of supported language, check [here](https://serpapi.com/google-languages).
+
 ## Guides
 
 - Visual guide - color palette (RGB): Tsinghua Purple (#660874), white (#ffffff), black (#000000)
