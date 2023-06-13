@@ -11,7 +11,7 @@ To view the effect of a change to the front end of the [website](https://biomed-
 
 ## Controlling the host language of Google Forms (anonymous, without signing in a Google-associated account) embedded as an iframe
 
-A "?hl=(desired host language)" parameter is appended to the Google Forms link. For a list of supported languages, check [here](https://serpapi.com/google-languages).
+A `?hl=(desired host language)` parameter is appended to the Google Forms link. For a list of supported languages, check [here](https://serpapi.com/google-languages).
 
 ## Guides
 
