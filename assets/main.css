@@ -47,9 +47,9 @@ footer{
 }
 
 a{color: #660874; transition: all 0.23s}
-a.current{color: #ffffff; background-color: #660874; text-decoration: none;}
+a.current{color: #ffffff; background-color: #660874; text-decoration: none; box-shadow: 0 5px 0 10px #660874;}
 a.other{text-decoration: none;}
-a.other:hover{color: #ffffff; background-color: #660874;}
+a.other:hover{color: #ffffff; background-color: #660874; box-shadow: 0 5px 0 10px #660874;}
 a.footer{color:#ffffff; text-decoration: none;}
 
 h1,h2,h3{clear:left; width:950px; text-align:left; color: #660874; margin:24px auto 24px auto; font-family:'Bitter',serif; line-height: 1.2;}
@@ -98,7 +98,7 @@ th,td{
 .year{color: #000000; font-size:0.58em; font-weight:700;}
 
 /* Navigation Links (Home, Registration, etc) */
-table.navigation{border-bottom: 2px solid #660874;}
+table.navigation{border-bottom: 1px solid #660874;}
 td.navigation{font-size:1.67em; font-weight:600; font-family:'Bitter',serif; white-space:nowrap; width:20%; text-align:center; vertical-align:middle; padding-bottom: 12px;}
 
 /* Sponsor Images */
