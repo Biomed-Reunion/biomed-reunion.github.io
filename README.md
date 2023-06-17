@@ -19,6 +19,8 @@ A `?hl=(desired host language)` parameter is appended to the Google Forms link. 
 
 - [Web designing guide](https://rutar.org/writing/how-to-build-a-personal-webpage-from-scratch/#crash-course-in-html-and-css) 
 
+- [Google Mobile-friendly Test](https://search.google.com/test/mobile-friendly)
+
 <!-- ## Sitemap (optional)
 
 The file `sitemap.xml` helps search engines understand the structure of your site. See the [sitemaps protocol page](https://www.sitemaps.org/protocol.html) for more details.
