@@ -48,7 +48,7 @@ footer{
 
 a{color: #660874; transition: all 0.23s}
 a.current{color: #ffffff; background-color: #660874; text-decoration: none; box-shadow: 0 4px 0 7px #660874;}
-a.other{text-decoration: none;}
+a.other{text-decoration: none; color: #000000;}
 a.other:hover{color: #ffffff; background-color: #660874; box-shadow: 0 4px 0 7px #660874;}
 a.footer{color:#ffffff; text-decoration: none;}
 
