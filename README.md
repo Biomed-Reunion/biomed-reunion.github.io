@@ -15,7 +15,7 @@ A `?hl=(desired host language)` parameter is appended to the Google Forms link. 
 
 ## Guides
 
-- Visual guide - color palette (RGB): Tsinghua Purple (#660874), background light purple (#f7f3f8), white (#ffffff), black (#000000)
+- Visual guide - color palette (RGB): Tsinghua Purple (#660874), iframe background light purple (#f7f3f8), white (#ffffff), black (#000000)
 
 - [Web designing guide](https://rutar.org/writing/how-to-build-a-personal-webpage-from-scratch/#crash-course-in-html-and-css) 
 
