@@ -119,7 +119,7 @@ table.plenary{padding-top: 8px; background: #ffffff;}
 iframe.registration{display:block; margin:1em auto 2em auto; width:950px; height:3650px; border:none;}
 
 /* Social media widgets in guest speakers' info */
-img.widget{width: 13px}
+img.widget{width: 1em}
 
 /* Flyer Images */
 td.flyer{white-space:nowrap; width:50%; text-align:center; vertical-align:middle; padding:0px 0px 0px 0px;}
