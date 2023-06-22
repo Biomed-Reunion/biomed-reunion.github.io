@@ -12,7 +12,6 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Bitter:wght@100;200;300;400;500;600;700;800;900&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Noto+Emoji&display=swap');
 
 *{
     border:0;
@@ -120,7 +119,3 @@ iframe.registration{display:block; margin:1em auto 2em auto; width:950px; height
 
 /* Social media widgets in guest speakers' info */
 img.widget{width: 1.24em}
-
-/* Flyer Images */
-td.flyer{white-space:nowrap; width:50%; text-align:center; vertical-align:middle; padding:0px 0px 0px 0px;}
-td.sponsor img{width: 100%}
