@@ -59,8 +59,8 @@ h4{font-size:0.75em; font-family:'Roboto',sans-serif; font-weight:100; text-alig
 h5{font-size:1.24em; font-family:'Roboto',sans-serif; font-weight:500; text-align: center; color: #660874;} /* For speaker names; because both English and Chinese may be used, it is better to use a sans-serif font in both cases. */
 
 p{list-style:none; margin:24px auto 24px auto; padding:0px; width:950px; text-align:justify; hyphens: auto;}
-p.resource-item{color: #660874; border: 1px solid #660874; margin:14px auto 14px auto; padding:10px 25px 10px 25px; width:900px; border-radius: 5px; text-decoration: none;}
-p.resource-item:hover{color: #ffffff; background-color: #660874; transition: all 0.23s;}
+p.resource-item{color: #ffffff; background-color: #660874; transition: all 0.23s; border: 1px solid #660874; margin:14px auto 14px auto; padding:10px 25px 10px 25px; width:900px; border-radius: 5px; text-decoration: none;}
+p.resource-item:hover{color: #660874; background-color: #ffffff;}
 li a, p a {text-decoration:underline; text-decoration-color:#660874;}
 li{list-style:none; margin:0px auto 0px auto; padding:0px; text-align:left;}
 i,em{font-style:italic;}
