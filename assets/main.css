@@ -59,7 +59,7 @@ h4{font-size:0.75em; font-family:'Roboto',sans-serif; font-weight:100; text-alig
 h5{font-size:1.24em; font-family:'Roboto',sans-serif; font-weight:500; text-align: center; color: #660874;} /* For speaker names; because both English and Chinese may be used, it is better to use a sans-serif font in both cases. */
 
 p{list-style:none; margin:24px auto 24px auto; padding:0px; width:950px; text-align:justify; hyphens: auto;}
-p.resource-item{border: 1px; border-color: #660874; padding:0px 24px 0px 24px; border-radius: 5px;}
+p.resource-item{border-width: 1px; border-color: #660874; padding:0px 24px 0px 24px; border-radius: 5px;}
 li a, p a {text-decoration:underline; text-decoration-color:#660874;}
 li{list-style:none; margin:0px auto 0px auto; padding:0px; text-align:left;}
 i,em{font-style:italic;}
