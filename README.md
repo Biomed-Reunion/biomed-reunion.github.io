@@ -25,8 +25,8 @@ A `?hl=(desired host language)` parameter is appended to the Google Forms link. 
 
 The file `sitemap.xml` helps search engines understand the structure of your site. See the [sitemaps protocol page](https://www.sitemaps.org/protocol.html) for more details.
 
--->
-
 ## Alternatives
 
 [Hoverboard](https://github.com/gdg-x/hoverboard), [Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll), and [Pixelarity](https://pixelarity.com)
+
+-->
