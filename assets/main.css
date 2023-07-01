@@ -96,7 +96,7 @@ th,td{
 /* Conference Title Logo */
 .title1{color: #660874; font-size:0.75em; font-weight:600;} 
 .year{color: #000000; font-size:0.58em; font-weight:600;}
-.pipe{color: #000000; font-size:0.58em; font-weight:200;}
+.pipe{color: #000000; font-size:0.58em; font-weight:300;}
 
 /* Navigation Links (Home, Registration, etc) */
 table.navigation{border-bottom: 2px solid #660874;}
