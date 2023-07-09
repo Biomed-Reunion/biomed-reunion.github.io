@@ -118,7 +118,7 @@ td.abstract img{display: block; margin: 4px auto 8px auto}
 table.plenary{padding-top: 8px; background: #ffffff;}
 
 /* Registration iframe */
-iframe.registration{display:block; margin:1em auto 2em auto; width:950px; height:3650px; border:none;}
+iframe.registration{display:block; margin:1em auto 2em auto; width:950px; height:3800px; border:none;}
 
 /* Social media widgets in guest speakers' info */
 img.widget{width: 1.24em}
