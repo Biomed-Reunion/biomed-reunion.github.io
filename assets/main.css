@@ -104,8 +104,8 @@ table.navigation{border-bottom: 2px solid #660874;}
 td.navigation{font-size:1.67em; font-weight:600; font-family:'Bitter',serif; white-space:nowrap; width:20%; text-align:center; vertical-align:middle; padding-bottom: 12px;}
 
 /* Sponsor Images */
-td.speaker-photo{white-space:nowrap; width:25%; text-align:left; vertical-align:middle; padding:0px 12px 0px 12px;}
-td.speaker-photo img{width: 100%}
+td.speaker-photo{white-space:nowrap; width:25%; text-align:center; vertical-align:middle; padding:0px 12px 0px 12px;}
+td.speaker-photo img{width: 67%;}
 td.sponsor{white-space:nowrap; width:25%; text-align:center; vertical-align:middle; padding:0px 12px 0px 12px;}
 td.sponsor img{width: 100%}
 
