@@ -121,7 +121,7 @@ table.plenary{padding-top: 8px; background: #ffffff;}
 
 /* Registration iframe */
 iframe.registration{display:block; margin:1em auto 2em auto; width:950px; height:3800px; border:none;}
-iframe.program{display:block; margin:1em auto 2em auto; width:950px; height:990px; border:none;}
+iframe.program{display:block; margin:1em auto 2em auto; width:950px; height:985px; border:none;}
 
 /* Social media widgets in guest speakers' info */
 img.widget{width: 1.24em}
