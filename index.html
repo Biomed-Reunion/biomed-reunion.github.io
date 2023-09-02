@@ -17,8 +17,7 @@
         function countTime() {
             var date = new Date();
             var now = date.getTime();
-            var str="2023/9/3 00:09:00 GMT-07:00";
-            var endDate = new Date(str);
+            var endDate = new Date(Date.UTC(2023,8,3,16,0,0));
             var end = endDate.getTime();
 
             var leftTime = end-now;
@@ -30,7 +29,7 @@
                 s = Math.floor(leftTime/1000%60);
             }
             document.getElementById("_d").innerHTML = d+"天";
-            document.getElementById("_h").innerHTML = h+”小时";
+            document.getElementById("_h").innerHTML = h+"小时";
             document.getElementById("_m").innerHTML = m+"分";
             document.getElementById("_s").innerHTML = s+"秒";
 
